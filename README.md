@@ -119,8 +119,8 @@ The job sets the standard OpenMolcas environment (`MOLCAS_PROJECT`, a local scra
 
 ## 🙏 Acknowledgement
 
-Material prepared by **Arshad Mehmood** (Institute for Advanced Computational Science, Stony Brook
-University) for the **PySpawn / OpenMolcas** session led with **Professor Benjamin G. Levine**.
+Material prepared by [**Arshad Mehmood**](https://arshadmehmood118.github.io/) (Institute for Advanced Computational Science, Stony Brook
+University) for the **PySpawn / OpenMolcas** session led with [**Professor Benjamin G. Levine**](https://levinegroup.org/).
 This work is supported by the **NSF-OAC CyberTraining** program.
 
 📧 **Post-workshop questions?** Email **[arshad.mehmood@stonybrook.edu](mailto:arshad.mehmood@stonybrook.edu)**.

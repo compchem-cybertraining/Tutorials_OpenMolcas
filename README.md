@@ -91,7 +91,7 @@ The job sets the standard OpenMolcas environment (`MOLCAS_PROJECT`, a local scra
 `MOLCAS_WORKDIR=scr_<project>`, `MOLCAS_MEM`, MOLDEN output, …) and runs
 `pymolcas <input>.in > <input>.out`, cleaning up scratch at the end. 
 
-> 📂 Each folder ships a **reference output** — if a calculation runs long (the CASPT2, RASSI, and
+> 📂 Some folders ships a **reference output** — if a calculation runs long (the CASPT2, RASSI, and
 > core-hole examples can), read the provided output and follow that folder's README directly.
 
 ---
